@@ -2,7 +2,7 @@
 
 This project implements K-Means clustering from scratch using PySpark RDDs.
 
-## 🔍 Overview
+## Overview
 - Custom K-Means implementation (no sklearn clustering)
 - Distributed computation using PySpark
 - Multiple runs for stability
@@ -10,7 +10,7 @@ This project implements K-Means clustering from scratch using PySpark RDDs.
   - Calinski-Harabasz Score
   - Adjusted Rand Index (ARI)
 
-## 📁 Project Structure
+## Project Structure
 ```
 kmeans-spark-project/
 │
@@ -31,13 +31,13 @@ kmeans-spark-project/
 └── requirements.txt
 ```
 
-## ⚙️ Technologies
+## Technologies
 - Python
 - PySpark
 - NumPy / Pandas
 - Scikit-learn
 
-## ▶️ How to Run
+## How to Run
 
 1. Install dependencies:
    ```
