@@ -25,7 +25,10 @@ kmeans-spark-project/
 │ ├── parkinsons.csv
 │
 ├── notebooks/
-│ └── kmeans_experiments.ipynb
+│   └── kmeans_experiments.ipynb
+│
+├── README.md
+└── requirements.txt
 ```
 
 ## ⚙️ Technologies
